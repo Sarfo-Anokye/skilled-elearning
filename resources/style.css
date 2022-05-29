@@ -105,6 +105,7 @@ display: none;
 }
 
 .grid-container{
+    /* height: 1695px; */
     width:100%;
     margin:66px 0px 0px 0px;
     background: linear-gradient(180deg, #FFFFFF 0%, #F0F1FF 100%);
@@ -307,6 +308,7 @@ display: none;
     }
     
     .grid-container{
+        height: 999px;
         width:100%;
         margin:0px 0px 0px 0px;
         background: linear-gradient(180deg, #FFFFFF 0%, #F0F1FF 100%);
@@ -513,6 +515,7 @@ display: none;
     }
     
     .grid-container{
+        height:888px;
         width:100%;
         margin:226px 0px 0px 0px;
         background: linear-gradient(180deg, #FFFFFF 0%, #F0F1FF 100%); 
