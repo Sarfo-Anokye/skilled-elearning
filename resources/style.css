@@ -23,7 +23,7 @@ max-width: 100vw;
     background: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);    
 }
 /* mobile view styling-------------------------------------------------------------- */
-@media only screen and (max-width:375px){
+@media only screen and (max-width:480px){
 .nav-container{
     width:100%;
 }
@@ -210,7 +210,7 @@ display: none;
 
 /* ---------------------------------------------------------------------------------------------------------- */
 /* Tablet View styling */
-@media only screen and (max-width:768px) and (min-width:376px) {
+@media only screen and (max-width:768px) and (min-width:481px) {
   
     .nav-container{
         width:100%;
